@@ -8,5 +8,5 @@ public class Caculator {
         // 집에서 수정
     }
     // 충돌 유도 PC2
-    // logic2
+    // logic1
 }
