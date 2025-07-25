@@ -9,5 +9,6 @@ public class Caculator {
     }
     // 충돌 유도 PC2
     // logic1
-    // complete 2
+    // complete1
+    // complete2
 }
